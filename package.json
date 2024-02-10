@@ -2,7 +2,7 @@
   "name": "mg-header",
   "displayName": "MG Header",
   "description": "Header",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "publisher": "maxencegama",
   "engines": {
     "vscode": "^1.86.0"
