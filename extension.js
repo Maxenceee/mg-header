@@ -1,7 +1,7 @@
 const vscode = require('vscode');
 var delimiters_1 = require("./delimiters");
 
-let header = `/**!
+let header = `/*!
 
 
 
